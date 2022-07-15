@@ -14,4 +14,4 @@ git pull
 
 ###### O Git Bash é um terminal extendido para otimizar o uso do Git.
 
-[Download do Git] (https://git-sm.com/downloads)
+[Download do Git](https://git-sm.com/downloads)
