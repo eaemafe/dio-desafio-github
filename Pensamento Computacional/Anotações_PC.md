@@ -8,7 +8,7 @@
 
 
 
-[Portugol Webstudio](https://portugol-webstudio.cubos.io/)
+[Download Portugol Webstudio](https://portugol-webstudio.cubos.io/)
 
 
 
